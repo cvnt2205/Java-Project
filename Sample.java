@@ -4,7 +4,7 @@ class Sample
     {
      System.out.println("Welcome to DevOps");
      System.out.println("Hello from Jenkins");
-      System.out.println("Build");
+      System.out.println("Build and trigger");
     }
   }
 
